@@ -1,2 +1,3 @@
 # html-css-js-website-smooth-scroll-tutorial
-Created with CodeSandbox
+
+Simple website created using HTML, CSS, Javascript with smooth scroll effect
